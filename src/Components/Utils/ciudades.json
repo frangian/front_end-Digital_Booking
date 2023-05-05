@@ -1,0 +1,38 @@
+[
+	{
+		"id" : 1,
+		"nombre" : "Salta",
+		"provincia" : "Salta",
+		"pais" : "Argentina"
+	},
+	{
+		"id" : 2,
+		"nombre" : "CABA",
+		"provincia" : "CABA",
+		"pais" : "Argentina"
+	},
+	{
+		"id" : 3,
+		"nombre" : "Montevideo",
+		"provincia" : "Montevideo",
+		"pais" : "Uruguay"
+	},
+	{
+		"id" : 4,
+		"nombre" : "Punta del Este",
+		"provincia" : "Maldonado",
+		"pais" : "Uruguay"
+	},
+	{
+		"id" : 5,
+		"nombre" : "Bogota",
+		"provincia" : "Cundinamarca",
+		"pais" : "Colombia"
+	},
+	{
+		"id" : 6,
+		"nombre" : "Medellin",
+		"provincia" : "Antioquia",
+		"pais" : "Colombia"
+	}
+]
